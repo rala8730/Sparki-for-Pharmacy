@@ -1,0 +1,1 @@
+Sparki follows specified paths to fetch 1 of 5 bottles. It uses light sensors to make sure that it stays on the defined path, and constantly recalibrates to ensure that it does not get off track in order to  locate the bottle.
