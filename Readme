@@ -1,1 +1,3 @@
 Sparki follows specified paths to fetch 1 of 5 bottles. It uses light sensors to make sure that it stays on the defined path, and constantly recalibrates to ensure that it does not get off track in order to  locate the bottle.it hones in on the specified object and uses its ultrasonic sensors to find the fastest path to the bottle at an optimal angle. Sparki uses its RFID scanner to scan the pill bottle, making sure that the unique tag on the bottle matches up with the specified bottle number. If an incorrect bottle is approached, Sparki will beep, display a message that it is incorrect, and move back to the start to await more instructions. 
+
+Video: https://youtu.be/TKgePysJxr0
